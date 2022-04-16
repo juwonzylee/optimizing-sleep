@@ -6,5 +6,6 @@ test = Optimize()
 res = np.array(test.optimize())
 labels = ['Mon', 'Tues', 'Wed', 'Thurs', 'Fri', 'Sat', 'Sun']
 
-plt.plot(res)
+plt.plot(labels,res)
+plt.title('Optimized Sleep Time Per Day')
 plt.savefig('./output.png')
