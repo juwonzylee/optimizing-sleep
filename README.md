@@ -36,6 +36,7 @@ Time in Decimals | Mon | Tues | Wed | Thurs | Fri | Sat | Sun
 Optimized Sleep Time | 7.22| 6.9 | 7.07 | 7.03 | 7.08 | 6.83 | 6.87
 
 This is visualized below.
+
 ![Result Graph](output.png)
 
 I can sleep the most on Mondays. I can sleep the least on Saturdays.
